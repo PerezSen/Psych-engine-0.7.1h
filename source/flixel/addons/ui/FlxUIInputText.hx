@@ -5,7 +5,7 @@ import flixel.addons.ui.interfaces.IHasParams;
 import flixel.addons.ui.interfaces.IResizable;
 
 /**
- * @author Lars Doucet
+ * @author Lars Doucet '
  */
 class FlxUIInputText extends FlxInputText implements IResizable implements IFlxUIWidget implements IHasParams
 {
