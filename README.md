@@ -1,5 +1,5 @@
 # Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+ Motor utilizado originalmente en [Mind Games Mod](https://gamebanana.com/mods/301107), destinado a solucionar los numerosos problemas de la versión básica y al mismo tiempo mantener el aspecto de juego casual.También pretende ser una alternativa más sencilla para los programadores novatos.
 
 ## Installation:
 You must have [Haxe version 4.2.5](https://haxe.org/download/version/4.2.5/), seriously, stop using older or newer versions, it won't work!
